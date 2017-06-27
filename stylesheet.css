@@ -21,3 +21,6 @@ div {
   color: #FFFFFF;
   font-family: Verdana, Arial, Sans-serif;
 }
+a {
+  text-decoration: none;
+}
